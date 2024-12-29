@@ -1,0 +1,5 @@
+C:\Users\xyls\Desktop\c_tb\bin\Debug\ConsoleApplication.exe
+C:\Users\xyls\Desktop\c_tb\bin\Debug\ConsoleApplication.pdb
+C:\Users\xyls\Desktop\c_tb\obj\x86\Debug\mat.csproj.CoreCompileInputs.cache
+C:\Users\xyls\Desktop\c_tb\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\xyls\Desktop\c_tb\obj\x86\Debug\ConsoleApplication.pdb

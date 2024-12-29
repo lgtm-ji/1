@@ -1,0 +1,280 @@
+Round 1:
+Input: x1: 710, y1: 565, r1: 346
+       x2: 341, y2: 532, r2: 253
+       x3: 517, y3: 470, r3: 177
+Output: Point_x: 467.946350135955, Point_y: 348.008993934323
+Filtered Output: Point_x: 107.987619262143, Point_y: 80.3097678309977
+
+Round 2:
+Input: x1: 715, y1: 574, r1: 355
+       x2: 341, y2: 533, r2: 262
+       x3: 521, y3: 478, r3: 182
+Output: Point_x: 475.855545617174, Point_y: 329.390876565295
+Filtered Output: Point_x: 235.53981483248, Point_y: 166.674574377061
+
+Round 3:
+Input: x1: 718, y1: 580, r1: 364
+       x2: 351, y2: 543, r2: 263
+       x3: 530, y3: 483, r3: 185
+Output: Point_x: 472.76631288622, Point_y: 318.061166777223
+Filtered Output: Point_x: 328.707499603662, Point_y: 226.129729829917
+
+Round 4:
+Input: x1: 721, y1: 584, r1: 370
+       x2: 355, y2: 544, r2: 270
+       x3: 534, y3: 484, r3: 185
+Output: Point_x: 479.759615384615, Point_y: 296.899519230769
+Filtered Output: Point_x: 390.524198064902, Point_y: 255.091619631592
+
+Round 5:
+Input: x1: 725, y1: 589, r1: 372
+       x2: 355, y2: 549, r2: 280
+       x3: 534, y3: 487, r3: 188
+Output: Point_x: 488.316146179402, Point_y: 297.275647840531
+Filtered Output: Point_x: 431.102473056966, Point_y: 272.595669095165
+
+Round 6:
+Input: x1: 733, y1: 596, r1: 376
+       x2: 363, y2: 558, r2: 288
+       x3: 544, y3: 488, r3: 197
+Output: Point_x: 495.742815302947, Point_y: 316.97785099762
+Filtered Output: Point_x: 458.050443744871, Point_y: 291.098197012195
+
+Round 7:
+Input: x1: 738, y1: 596, r1: 381
+       x2: 367, y2: 561, r2: 296
+       x3: 554, y3: 492, r3: 204
+Output: Point_x: 500.9549993778, Point_y: 302.805578023893
+Filtered Output: Point_x: 475.965318587378, Point_y: 295.986635138731
+
+Round 8:
+Input: x1: 738, y1: 596, r1: 388
+       x2: 368, y2: 568, r2: 296
+       x3: 562, y3: 492, r3: 206
+Output: Point_x: 489.632570338579, Point_y: 295.641034811635
+Filtered Output: Point_x: 481.675167438008, Point_y: 295.842251639666
+
+Round 9:
+Input: x1: 741, y1: 599, r1: 388
+       x2: 377, y2: 578, r2: 302
+       x3: 571, y3: 493, r3: 215
+Output: Point_x: 493.273276403724, Point_y: 314.906066144971
+Filtered Output: Point_x: 486.521459275812, Point_y: 303.808102702762
+
+Round 10:
+Input: x1: 751, y1: 604, r1: 393
+       x2: 386, y2: 582, r2: 312
+       x3: 580, y3: 502, r3: 216
+Output: Point_x: 508.688060236644, Point_y: 287.493546073862
+Filtered Output: Point_x: 495.784386180616, Point_y: 296.990614274797
+
+Round 11:
+Input: x1: 757, y1: 614, r1: 395
+       x2: 390, y2: 582, r2: 313
+       x3: 582, y3: 512, r3: 219
+Output: Point_x: 521.505528680028, Point_y: 287.186592950933
+Filtered Output: Point_x: 506.532900889325, Point_y: 292.893647454351
+
+Round 12:
+Input: x1: 763, y1: 621, r1: 405
+       x2: 394, y2: 582, r2: 322
+       x3: 587, y3: 519, r3: 228
+Output: Point_x: 532.043234548645, Point_y: 267.449909014103
+Filtered Output: Point_x: 517.193396865138, Point_y: 282.260980909325
+
+Round 13:
+Input: x1: 771, y1: 627, r1: 406
+       x2: 403, y2: 588, r2: 324
+       x3: 597, y3: 519, r3: 238
+Output: Point_x: 537.372474057892, Point_y: 308.344347351174
+Filtered Output: Point_x: 525.626037915322, Point_y: 293.160967290442
+
+Round 14:
+Input: x1: 772, y1: 629, r1: 412
+       x2: 410, y2: 591, r2: 332
+       x3: 606, y3: 521, r3: 238
+Output: Point_x: 544.040014639502, Point_y: 274.197755276321
+Filtered Output: Point_x: 533.321066813423, Point_y: 285.236418094186
+
+Round 15:
+Input: x1: 772, y1: 638, r1: 415
+       x2: 420, y2: 597, r2: 332
+       x3: 609, y3: 523, r3: 242
+Output: Point_x: 545.933559191644, Point_y: 291.228955232713
+Filtered Output: Point_x: 538.591711036074, Point_y: 287.740644087039
+
+Round 16:
+Input: x1: 781, y1: 644, r1: 420
+       x2: 427, y2: 600, r2: 340
+       x3: 610, y3: 523, r3: 245
+Output: Point_x: 558.641121495327, Point_y: 296.02370433305
+Filtered Output: Point_x: 546.970175505283, Point_y: 291.202058880684
+
+Round 17:
+Input: x1: 781, y1: 651, r1: 424
+       x2: 427, y2: 605, r2: 340
+       x3: 611, y3: 524, r3: 252
+Output: Point_x: 553.276778501804, Point_y: 320.78305239916
+Filtered Output: Point_x: 549.605647052182, Point_y: 303.563684749627
+
+Round 18:
+Input: x1: 789, y1: 660, r1: 427
+       x2: 429, y2: 610, r2: 348
+       x3: 619, y3: 529, r3: 261
+Output: Point_x: 565.097710812209, Point_y: 338.846482152095
+Filtered Output: Point_x: 556.079638470699, Point_y: 318.308042321549
+
+Round 19:
+Input: x1: 795, y1: 668, r1: 437
+       x2: 429, y2: 616, r2: 352
+       x3: 627, y3: 530, r3: 265
+Output: Point_x: 563.057239299052, Point_y: 341.62596954898
+Filtered Output: Point_x: 558.995513898804, Point_y: 328.052390373176
+
+Round 20:
+Input: x1: 800, y1: 673, r1: 447
+       x2: 438, y2: 622, r2: 355
+       x3: 632, y3: 539, r3: 271
+Output: Point_x: 562.199073610416, Point_y: 327.302653980971
+Filtered Output: Point_x: 560.334252139472, Point_y: 327.73908240672
+
+Round 1:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 105.805063803019, Point_y: 138.499955068296
+
+Round 2:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 228.092323474851, Point_y: 298.575280021603
+
+Round 3:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 318.577529613791, Point_y: 417.021378290778
+
+Round 4:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 375.834861041098, Point_y: 491.971834771541
+
+Round 5:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 410.131616668337, Point_y: 536.866653059297
+
+Round 6:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 430.291207235803, Point_y: 563.255771759583
+
+Round 7:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 442.065083706582, Point_y: 578.667901421151
+
+Round 8:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 448.926437647345, Point_y: 587.649486785275
+
+Round 9:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 452.922009430252, Point_y: 592.8797327916
+
+Round 10:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 455.24816726318, Point_y: 595.924698162464
+
+Round 11:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 456.602304017065, Point_y: 597.697277591352
+
+Round 12:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 457.390571062732, Point_y: 598.729127547135
+
+Round 13:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 457.849430828839, Point_y: 599.329779866637
+
+Round 14:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 458.116537756826, Point_y: 599.67942567937
+
+Round 15:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 458.272023237009, Point_y: 599.882957828447
+
+Round 16:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 458.362532777718, Point_y: 600.001435780928
+
+Round 17:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 458.415219214395, Point_y: 600.070402887513
+
+Round 18:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 458.445888472763, Point_y: 600.110549273265
+
+Round 19:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 458.463741329291, Point_y: 600.133918852547
+
+Round 20:
+Input: x1: 70, y1: 460, r1: 270
+       x2: 210, y2: 830, r2: 130
+       x3: 950, y3: 340, r3: 460
+Output: Point_x: 458.488609813084, Point_y: 600.166471962617
+Filtered Output: Point_x: 458.474133640732, Point_y: 600.147522498874
+
