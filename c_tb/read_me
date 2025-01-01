@@ -1,3 +1,3 @@
-you can use this program to stimulate a car runs at the speed of 20kmph to 40kmph, 
+you can use this program to stimulate a car runs at the speed of 10kmph to 20kmph, 
 and then compare it with the location after kalman filtering.
 However, I didn't add the distance deviation of UWB, it's only for ideal
